@@ -6,7 +6,7 @@ Bienvenue dans le projet `ip`. Ce projet a été conçu pour [ip tracking].
 
 ### Installation
 
-![IMG_20240621_105527](https://github.com/andixax/ip/assets/168948944/a3850905-0ea8-426f-ab1f-14fc17f9d1b1)
+![https://github.com/tucommenceapousser/ip/blob/main/Screenshot_2024-08-06-10-31-33-633_com.android.chrome-edit.jpg](https://github.com/tucommenceapousser/ip/blob/main/Screenshot_2024-08-06-10-31-33-633_com.android.chrome-edit.jpg)
 
 
 ```
