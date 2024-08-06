@@ -6,7 +6,7 @@ Bienvenue dans le projet `ip`. Ce projet a été conçu pour [ip tracking].
 
 ### Installation
 
-![https://github.com/tucommenceapousser/ip/blob/main/Screenshot_2024-08-06-10-31-33-633_com.android.chrome-edit.jpg](https://github.com/tucommenceapousser/ip/blob/main/Screenshot_2024-08-06-10-59-54-973_com.android.chrome-edit.jpg)
+![sc.jpg](sc.jpg)
 
 
 ```
